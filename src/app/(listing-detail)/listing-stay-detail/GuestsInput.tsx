@@ -18,9 +18,9 @@ export interface GuestsInputProps {
 }
 
 const GuestsInput: FC<GuestsInputProps> = ({ className = 'flex-1' }) => {
-	const [guestAdultsInputValue, setGuestAdultsInputValue] = useState(2)
-	const [guestChildrenInputValue, setGuestChildrenInputValue] = useState(1)
-	const [guestInfantsInputValue, setGuestInfantsInputValue] = useState(1)
+	const [guestAdultsInputValue, setGuestAdultsInputValue] = useState(1)
+	const [guestChildrenInputValue, setGuestChildrenInputValue] = useState(0)
+	const [guestInfantsInputValue, setGuestInfantsInputValue] = useState(0)
 
 	const handleChangeData = (value: number, type: keyof GuestsObject) => {
 		let newValue = {

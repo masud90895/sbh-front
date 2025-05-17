@@ -21,7 +21,7 @@ const StaySearchForm = ({
 		defaultValue?.availabilityDateEnd ? new Date(defaultValue.availabilityDateEnd) : new Date(),
 	);
 
-	const [guestAdultsInputValue, setGuestAdultsInputValue] = useState(defaultValue?.guestAdults ?? 2);
+	const [guestAdultsInputValue, setGuestAdultsInputValue] = useState(defaultValue?.guestAdults ?? 1);
 
 
 	const query: Record<string, any> = {};

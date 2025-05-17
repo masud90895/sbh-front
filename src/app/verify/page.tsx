@@ -38,7 +38,8 @@ const PageVerify = () => {
             if (result.status === 'success') {
                 Cookies.set('sbh-token', result.data.access_token, { expires: 7 }) // Set cookie with 7 days expiration
                 localStorage.removeItem('verifyEmail')
-                router.push('/')
+                // router.push('/')
+                window.location.href = '/'
             } else if (result.status === 'info') {
                 alert(result.message || 'Info: ' + result.data?.message)
             } else {

@@ -1,0 +1,58 @@
+{
+	"id": 309941,
+	"propertyTypeId": 1,
+	"name": "Panoramic Burj Khalifa View Luxury Penthouse 2BR",
+	"description": "Panoramic Burj Khalifa View Luxury Penthouse in Downtown Dubai provides accommodations with a fitness center, large terrace. The apartment also offers free Wifi, free private parking, and facilities for disabled guests. All of the air-conditioned units feature a private bathroom, flat-screen TV, fully equipped kitchen. The apartment also provides an infinity pool and a spa facilities for guests to relax in, kids pool, outdoor play area, and a baby safety gate.",
+	"thumbnailUrl": "https://a0.muscache.com/im/pictures/miso/Hosting-1225574443395004636/original/5db5a2f4-1cdf-471f-ae89-2bb745e56897.jpeg?aki_policy=x_smallImage preview",
+	"houseRules": null,
+	"country": "United Arab Emirates",
+	"countryCode": "AE",
+	"state": "Dubai",
+	"city": "Dubai",
+	"street": "School St",
+	"address": "School St The Distinction",
+	"publicAddress": "School St The Distinction",
+	"zipcode": "Dubai",
+	"price": 1450,
+	"lat": 25.18791676,
+	"lng": 55.27972051,
+	"checkInTimeStart": 15,
+	"checkInTimeEnd": 24,
+	"checkOutTime": 11,
+	"roomType": "entire_home",
+	"bathroomType": "private",
+	"bedroomsNumber": 2,
+	"bedsNumber": 4,
+	"bathroomsNumber": 2,
+	"language": "en",
+	"currencyCode": "AED",
+	"timeZoneName": "Asia/Dubai",
+	"bookingcomPropertyRoomName": "Apartment",
+	"averageReviewRating": 9.8,
+	"listingAmenities": [
+		{
+			"id": 227685396,
+			"amenityId": 3,
+			"amenityName": "Wireless"
+		},
+		{
+			"id": 227685407,
+			"amenityId": 4,
+			"amenityName": "Air conditioning"
+		}
+	],
+	"listingImages": [
+		{
+			"id": 312442603,
+			"caption": "",
+			"url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/115490-309941-GA13s7k1ErsBKCsph-EQQj7FpMk0BAXdPmWyNNr9f3E-66ec082c8ccca",
+			"sortOrder": 1
+		},
+		{
+			"id": 312442604,
+			"caption": "",
+			"url": "https://hostaway-platform.s3.us-west-2.amazonaws.com/listing/115490-309941-fV3FvBimHVc2F2QuutQiuLQGUffaq4jy1pnidinuVJg-66ec082b23857",
+			"sortOrder": 2
+		}
+	]
+}
